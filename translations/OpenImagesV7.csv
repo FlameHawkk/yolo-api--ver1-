@@ -1,0 +1,602 @@
+class_number,english,russian
+0,Accordion,Аккордеон
+1,Adhesive tape,Клейкая лента
+2,Aircraft,Воздушное судно
+3,Airplane,Самолет
+4,Alarm clock,Будильник
+5,Alpaca,Альпака
+6,Ambulance,Скорая помощь
+7,Animal,Животное
+8,Ant,Муравей
+9,Antelope,Антилопа
+10,Apple,Яблоко
+11,Armadillo,Броненосец
+12,Artichoke,Артишок
+13,Auto part,Автозапчасть
+14,Axe,Топор
+15,Backpack,Рюкзак
+16,Bagel,Бейгл
+17,Baked goods,Выпечка
+18,Balance beam,Бревно (гимнастическое)
+19,Ball,Мяч
+20,Balloon,Воздушный шар
+21,Banana,Банан
+22,Band-aid,Пластырь
+23,Banjo,Банджо
+24,Barge,Баржа
+25,Barrel,Бочка
+26,Baseball bat,Бейсбольная бита
+27,Baseball glove,Бейсбольная перчатка
+28,Bat (Animal),Летучая мышь
+29,Bathroom accessory,Аксессуар для ванной
+30,Bathroom cabinet,Шкафчик для ванной
+31,Bathtub,Ванна
+32,Beaker,Химический стакан
+33,Bear,Медведь
+34,Bed,Кровать
+35,Bee,Пчела
+36,Beehive,Улей
+37,Beer,Пиво
+38,Beetle,Жук
+39,Bell pepper,Болгарский перец
+40,Belt,Ремень
+41,Bench,Скамейка
+42,Bicycle,Велосипед
+43,Bicycle helmet,Велошлем
+44,Bicycle wheel,Велосипедное колесо
+45,Bidet,Биде
+46,Billboard,Рекламный щит
+47,Billiard table,Бильярдный стол
+48,Binoculars,Бинокль
+49,Bird,Птица
+50,Blender,Блендер
+51,Blue jay,Голубая сойка
+52,Boat,Лодка
+53,Bomb,Бомба
+54,Book,Книга
+55,Bookcase,Книжный шкаф
+56,Boot,Ботинок
+57,Bottle,Бутылка
+58,Bottle opener,Открывалка
+59,Bow and arrow,Лук и стрелы
+60,Bowl,Миска
+61,Bowling equipment,Боулинг-оборудование
+62,Box,Коробка
+63,Boy,Мальчик
+64,Brassiere,Бюстгальтер
+65,Bread,Хлеб
+66,Briefcase,Портфель
+67,Broccoli,Брокколи
+68,Bronze sculpture,Бронзовая скульптура
+69,Brown bear,Бурый медведь
+70,Building,Здание
+71,Bull,Бык
+72,Burrito,Буррито
+73,Bus,Автобус
+74,Bust,Бюст
+75,Butterfly,Бабочка
+76,Cabbage,Капуста
+77,Cabinetry,Мебельные шкафы
+78,Cake,Торт
+79,Cake stand,Подставка для торта
+80,Calculator,Калькулятор
+81,Camel,Верблюд
+82,Camera,Камера
+83,Can opener,Консервный нож
+84,Canary,Канарейка
+85,Candle,Свеча
+86,Candy,Конфета
+87,Cannon,Пушка
+88,Canoe,Каноэ
+89,Cantaloupe,Дыня
+90,Car,Автомобиль
+91,Carnivore,Хищник
+92,Carrot,Морковь
+93,Cart,Тележка
+94,Cassette deck,Магнитофон
+95,Castle,Замок
+96,Cat,Кот
+97,Cat furniture,Кошачья мебель
+98,Caterpillar,Гусеница
+99,Cattle,Крупный рогатый скот
+100,Ceiling fan,Потолочный вентилятор
+101,Cello,Виолончель
+102,Centipede,Сороконожка
+103,Chainsaw,Бензопила
+104,Chair,Стул
+105,Cheese,Сыр
+106,Cheetah,Гепард
+107,Chest of drawers,Комод
+108,Chicken,Курица
+109,Chime,Колокольчик
+110,Chisel,Стамеска
+111,Chopsticks,Палочки для еды
+112,Christmas tree,Новогодняя ёлка
+113,Clock,Часы
+114,Closet,Шкаф
+115,Clothing,Одежда
+116,Coat,Пальто
+117,Cocktail,Коктейль
+118,Cocktail shaker,Шейкер для коктейлей
+119,Coconut,Кокос
+120,Coffee,Кофе
+121,Coffee cup,Кофейная чашка
+122,Coffee table,Журнальный стол
+123,Coffeemaker,Кофеварка
+124,Coin,Монета
+125,Common fig,Инжир
+126,Common sunflower,Подсолнух
+127,Computer keyboard,Компьютерная клавиатура
+128,Computer monitor,Компьютерный монитор
+129,Computer mouse,Компьютерная мышь
+130,Container,Контейнер
+131,Convenience store,Магазин у дома
+132,Cookie,Печенье
+133,Cooking spray,Спрей для готовки
+134,Corded phone,Проводной телефон
+135,Cosmetics,Косметика
+136,Couch,Диван
+137,Countertop,Столешница
+138,Cowboy hat,Ковбойская шляпа
+139,Crab,Краб
+140,Cream,Крем
+141,Cricket ball,Мяч для крикета
+142,Crocodile,Крокодил
+143,Croissant,Круассан
+144,Crown,Корона
+145,Crutch,Костыль
+146,Cucumber,Огурец
+147,Cupboard,Буфет
+148,Curtain,Штора
+149,Cutting board,Разделочная доска
+150,Dagger,Кинжал
+151,Dairy Product,Молочный продукт
+152,Deer,Олень
+153,Desk,Письменный стол
+154,Dessert,Десерт
+155,Diaper,Подгузник
+156,Dice,Игральные кости
+157,Digital clock,Электронные часы
+158,Dinosaur,Динозавр
+159,Dishwasher,Посудомоечная машина
+160,Dog,Собака
+161,Dog bed,Собачья лежанка
+162,Doll,Кукла
+163,Dolphin,Дельфин
+164,Door,Дверь
+165,Door handle,Дверная ручка
+166,Donut,Пончик
+167,Dragonfly,Стрекоза
+168,Drawer,Ящик
+169,Dress,Платье
+170,Drill (Tool),Дрель
+171,Drink,Напиток
+172,Drinking straw,Соломинка для напитков
+173,Drum,Барабан
+174,Duck,Утка
+175,Dumbbell,Гантель
+176,Eagle,Орёл
+177,Earrings,Серьги
+178,Egg (Food),Яйцо
+179,Elephant,Слон
+180,Envelope,Конверт
+181,Eraser,Ластик
+182,Face powder,Пудра для лица
+183,Facial tissue holder,Держатель для салфеток
+184,Falcon,Сокол
+185,Fashion accessory,Модный аксессуар
+186,Fast food,Фастфуд
+187,Fax,Факс
+188,Fedora,Федора
+189,Filing cabinet,Картотечный шкаф
+190,Fire hydrant,Пожарный гидрант
+191,Fireplace,Камин
+192,Fish,Рыба
+193,Flag,Флаг
+194,Flashlight,Фонарик
+195,Flower,Цветок
+196,Flowerpot,Цветочный горшок
+197,Flute,Флейта
+198,Flying disc,Летающий диск
+199,Food,Еда
+200,Food processor,Кухонный комбайн
+201,Football,Американский футбол
+202,Football helmet,Футбольный шлем
+203,Footwear,Обувь
+204,Fork,Вилка
+205,Fountain,Фонтан
+206,Fox,Лиса
+207,French fries,Картофель фри
+208,French horn,Валторна
+209,Frog,Лягушка
+210,Fruit,Фрукт
+211,Frying pan,Сковорода
+212,Furniture,Мебель
+213,Garden Asparagus,Спаржа
+214,Gas stove,Газовая плита
+215,Giraffe,Жираф
+216,Girl,Девочка
+217,Glasses,Очки
+218,Glove,Перчатка
+219,Goat,Коза
+220,Goggles,Защитные очки
+221,Goldfish,Золотая рыбка
+222,Golf ball,Мяч для гольфа
+223,Golf cart,Гольфкар
+224,Gondola,Гондола
+225,Goose,Гусь
+226,Grape,Виноград
+227,Grapefruit,Грейпфрут
+228,Grinder,Кофемолка
+229,Guacamole,Гуакамоле
+230,Guitar,Гитара
+231,Hair dryer,Фен
+232,Hair spray,Лак для волос
+233,Hamburger,Гамбургер
+234,Hammer,Молоток
+235,Hamster,Хомяк
+236,Hand dryer,Сушилка для рук
+237,Handbag,Сумка
+238,Handgun,Пистолет
+239,Harbor seal,Тюлень
+240,Harmonica,Гармоника
+241,Harp,Арфа
+242,Harpsichord,Клавесин
+243,Hat,Шляпа
+244,Headphones,Наушники
+245,Heater,Обогреватель
+246,Hedgehog,Ёжик
+247,Helicopter,Вертолёт
+248,Helmet,Шлем
+249,High heels,Туфли на каблуках
+250,Hiking equipment,Туристическое снаряжение
+251,Hippopotamus,Бегемот
+252,Home appliance,Бытовая техника
+253,Honeycomb,Соты
+254,Horizontal bar,Турник
+255,Horse,Лошадь
+256,Hot dog,Хот-дог
+257,House,Дом
+258,Houseplant,Комнатное растение
+259,Human arm,Рука человека
+260,Human beard,Борода человека
+261,Human body,Тело человека
+262,Human ear,Ухо человека
+263,Human eye,Глаз человека
+264,Human face,Лицо человека
+265,Human foot,Стопа человека
+266,Human hair,Волосы человека
+267,Human hand,Рука человека
+268,Human head,Голова человека
+269,Human leg,Нога человека
+270,Human mouth,Рот человека
+271,Human nose,Нос человека
+272,Humidifier,Увлажнитель воздуха
+273,Ice cream,Мороженое
+274,Indoor rower,Гребной тренажёр
+275,Infant bed,Детская кроватка
+276,Insect,Насекомое
+277,Invertebrate,Беспозвоночное
+278,Ipod,Айпод
+279,Isopod,Равноногое
+280,Jacket,Куртка
+281,Jacuzzi,Джакузи
+282,Jaguar (Animal),Ягуар
+283,Jeans,Джинсы
+284,Jellyfish,Медуза
+285,Jet ski,Гидроцикл
+286,Jug,Кувшин
+287,Juice,Сок
+288,Kangaroo,Кенгуру
+289,Kettle,Чайник
+290,Kitchen & dining room table,Кухонный и обеденный стол
+291,Kitchen appliance,Кухонный прибор
+292,Kitchen knife,Кухонный нож
+293,Kitchen utensil,Кухонный инвентарь
+294,Kitchenware,Кухонная утварь
+295,Kite,Воздушный змей
+296,Knife,Нож
+297,Koala,Коала
+298,Ladder,Лестница
+299,Ladle,Половник
+300,Ladybug,Божья коровка
+301,Lamp,Лампа
+302,Land vehicle,Наземное транспортное средство
+303,Lantern,Фонарь
+304,Laptop,Ноутбук
+305,Lavender (Plant),Лаванда
+306,Lemon,Лимон
+307,Leopard,Леопард
+308,Light bulb,Лампочка
+309,Light switch,Выключатель света
+310,Lighthouse,Маяк
+311,Lily,Лилия
+312,Limousine,Лимузин
+313,Lion,Лев
+314,Lipstick,Помада
+315,Lizard,Ящерица
+316,Lobster,Омар
+317,Loveseat,Диван для двоих
+318,Luggage and bags,Багаж и сумки
+319,Lynx,Рысь
+320,Magpie,Сорока
+321,Mammal,Млекопитающее
+322,Man,Мужчина
+323,Mango,Манго
+324,Maple,Клён
+325,Maracas,Маракасы
+326,Marine invertebrates,Морские беспозвоночные
+327,Marine mammal,Морское млекопитающее
+328,Measuring cup,Мерный стакан
+329,Mechanical fan,Механический вентилятор
+330,Medical equipment,Медицинское оборудование
+331,Microphone,Микрофон
+332,Microwave oven,Микроволновая печь
+333,Milk,Молоко
+334,Miniskirt,Мини-юбка
+335,Mirror,Зеркало
+336,Missile,Ракета
+337,Mixer,Миксер
+338,Mixing bowl,Миска для смешивания
+339,Mobile phone,Мобильный телефон
+340,Monkey,Обезьяна
+341,Moths and butterflies,Бабочки и мотыльки
+342,Motorcycle,Мотоцикл
+343,Mouse,Мышь
+344,Muffin,Маффин
+345,Mug,Кружка
+346,Mule,Мул
+347,Mushroom,Гриб
+348,Musical instrument,Музыкальный инструмент
+349,Musical keyboard,Музыкальная клавиатура
+350,Nail (Construction),Гвоздь
+351,Necklace,Ожерелье
+352,Nightstand,Прикроватная тумбочка
+353,Oboe,Гобой
+354,Office building,Офисное здание
+355,Office supplies,Канцелярские принадлежности
+356,Orange,Апельсин
+357,Organ (Musical Instrument),Орган
+358,Ostrich,Страус
+359,Otter,Выдра
+360,Oven,Духовка
+361,Owl,Сова
+362,Oyster,Устрица
+363,Paddle,Весло
+364,Palm tree,Пальма
+365,Pancake,Блин
+366,Panda,Панда
+367,Paper cutter,Резак для бумаги
+368,Paper towel,Бумажное полотенце
+369,Parachute,Парашют
+370,Parking meter,Парковочный счётчик
+371,Parrot,Попугай
+372,Pasta,Паста
+373,Pastry,Выпечка
+374,Peach,Персик
+375,Pear,Груша
+376,Pen,Ручка
+377,Pencil case,Пенал
+378,Pencil sharpener,Точилка для карандашей
+379,Penguin,Пингвин
+380,Perfume,Духи
+381,Person,Человек
+382,Personal care,Личная гигиена
+383,Personal flotation device,Спасательный жилет
+384,Piano,Пианино
+385,Picnic basket,Корзина для пикника
+386,Picture frame,Фоторамка
+387,Pig,Свинья
+388,Pillow,Подушка
+389,Pineapple,Ананас
+390,Pitcher (Container),Кувшин
+391,Pizza,Пицца
+392,Pizza cutter,Нож для пиццы
+393,Plant,Растение
+394,Plastic bag,Пластиковый пакет
+395,Plate,Тарелка
+396,Platter,Блюдо
+397,Plumbing fixture,Сантехника
+398,Polar bear,Белый медведь
+399,Pomegranate,Гранат
+400,Popcorn,Попкорн
+401,Porch,Крыльцо
+402,Porcupine,Дикобраз
+403,Poster,Плакат
+404,Potato,Картофель
+405,Power plugs and sockets,Электрические розетки и вилки
+406,Pressure cooker,Скороварка
+407,Pretzel,Крендель
+408,Printer,Принтер
+409,Pumpkin,Тыква
+410,Punching bag,Боксёрская груша
+411,Rabbit,Кролик
+412,Raccoon,Енот
+413,Racket,Ракетка
+414,Radish,Редис
+415,Ratchet (Device),Трещотка
+416,Raven,Ворон
+417,Rays and skates,Скаты и ромбовые
+418,Red panda,Красная панда
+419,Refrigerator,Холодильник
+420,Remote control,Пульт дистанционного управления
+421,Reptile,Рептилия
+422,Rhinoceros,Носорог
+423,Rifle,Винтовка
+424,Ring binder,Папка-скоросшиватель
+425,Rocket,Ракета
+426,Roller skates,Роликовые коньки
+427,Rose,Роза
+428,Rugby ball,Мяч для регби
+429,Ruler,Линейка
+430,Salad,Салат
+431,Salt and pepper shakers,Солонка и перечница
+432,Sandal,Сандалия
+433,Sandwich,Сэндвич
+434,Saucer,Блюдце
+435,Saxophone,Саксофон
+436,Scale,Весы
+437,Scarf,Шарф
+438,Scissors,Ножницы
+439,Scoreboard,Табло счёта
+440,Scorpion,Скорпион
+441,Screwdriver,Отвёртка
+442,Sculpture,Скульптура
+443,Sea lion,Морской лев
+444,Sea turtle,Морская черепаха
+445,Seafood,Морепродукты
+446,Seahorse,Морской конёк
+447,Seat belt,Ремень безопасности
+448,Segway,Сегвей
+449,Serving tray,Сервировочный поднос
+450,Sewing machine,Швейная машина
+451,Shark,Акула
+452,Sheep,Овца
+453,Shelf,Полка
+454,Shellfish,Моллюски
+455,Shirt,Рубашка
+456,Shorts,Шорты
+457,Shotgun,Дробовик
+458,Shower,Душ
+459,Shrimp,Креветка
+460,Sink,Раковина
+461,Skateboard,Скейтборд
+462,Ski,Лыжа
+463,Skirt,Юбка
+464,Skull,Череп
+465,Skunk,Скунс
+466,Skyscraper,Небоскрёб
+467,Slow cooker,Мультиварка
+468,Snack,Закуска
+469,Snail,Улитка
+470,Snake,Змея
+471,Snowboard,Сноуборд
+472,Snowman,Снеговик
+473,Snowmobile,Снегоход
+474,Snowplow,Снегоуборщик
+475,Soap dispenser,Дозатор мыла
+476,Sock,Носок
+477,Sofa bed,Диван-кровать
+478,Sombrero,Сомбреро
+479,Sparrow,Воробей
+480,Spatula,Лопатка
+481,Spice rack,Подставка для специй
+482,Spider,Паук
+483,Spoon,Ложка
+484,Sports equipment,Спортивное оборудование
+485,Sports uniform,Спортивная форма
+486,Squash (Plant),Кабачок
+487,Squid,Кальмар
+488,Squirrel,Белка
+489,Stairs,Лестница
+490,Stapler,Степлер
+491,Starfish,Морская звезда
+492,Stationary bicycle,Велотренажёр
+493,Stethoscope,Стетоскоп
+494,Stool,Табурет
+495,Stop sign,Знак остановки
+496,Strawberry,Клубника
+497,Street light,Уличный фонарь
+498,Stretcher,Носилки
+499,Studio couch,Кушетка
+500,Submarine,Подводная лодка
+501,Submarine sandwich,Субмарина (сэндвич)
+502,Suit,Костюм
+503,Suitcase,Чемодан
+504,Sun hat,Солнечная шляпа
+505,Sunglasses,Солнечные очки
+506,Surfboard,Доска для сёрфинга
+507,Sushi,Суши
+508,Swan,Лебедь
+509,Swim cap,Плавательная шапочка
+510,Swimming pool,Бассейн
+511,Swimwear,Купальник
+512,Sword,Меч
+513,Syringe,Шприц
+514,Table,Стол
+515,Table tennis racket,Ракетка для настольного тенниса
+516,Tablet computer,Планшет
+517,Tableware,Столовые приборы
+518,Taco,Тако
+519,Tank,Танк
+520,Tap,Кран
+521,Tart,Тарт
+522,Taxi,Такси
+523,Tea,Чай
+524,Teapot,Чайник
+525,Teddy bear,Плюшевый мишка
+526,Telephone,Телефон
+527,Television,Телевизор
+528,Tennis ball,Теннисный мяч
+529,Tennis racket,Теннисная ракетка
+530,Tent,Палатка
+531,Tiara,Тиара
+532,Tick,Клещ
+533,Tie,Галстук
+534,Tiger,Тигр
+535,Tin can,Консервная банка
+536,Tire,Шина
+537,Toaster,Тостер
+538,Toilet,Унитаз
+539,Toilet paper,Туалетная бумага
+540,Tomato,Помидор
+541,Tool,Инструмент
+542,Toothbrush,Зубная щётка
+543,Torch,Факел
+544,Tortoise,Черепаха
+545,Towel,Полотенце
+546,Tower,Башня
+547,Toy,Игрушка
+548,Traffic light,Светофор
+549,Traffic sign,Дорожный знак
+550,Train,Поезд
+551,Training bench,Скамья для жима
+552,Treadmill,Беговая дорожка
+553,Tree,Дерево
+554,Tree house,Дом на дереве
+555,Tripod,Штатив
+556,Trombone,Тромбон
+557,Trousers,Брюки
+558,Truck,Грузовик
+559,Trumpet,Труба
+560,Turkey,Индюк
+561,Turtle,Черепаха
+562,Umbrella,Зонт
+563,Unicycle,Моноцикл
+564,Van,Фургон
+565,Vase,Ваза
+566,Vegetable,Овощ
+567,Vehicle,Транспортное средство
+568,Vehicle registration plate,Автомобильный номер
+569,Violin,Скрипка
+570,Volleyball (Ball),Волейбольный мяч
+571,Waffle,Вафля
+572,Waffle iron,Вафельница
+573,Wall clock,Настенные часы
+574,Wardrobe,Гардероб
+575,Washing machine,Стиральная машина
+576,Waste container,Мусорный контейнер
+577,Watch,Часы
+578,Watercraft,Водное судно
+579,Watermelon,Арбуз
+580,Weapon,Оружие
+581,Whale,Кит
+582,Wheel,Колесо
+583,Wheelchair,Инвалидная коляска
+584,Whisk,Венчик
+585,Whiteboard,Маркерная доска
+586,Willow,Ива
+587,Window,Окно
+588,Window blind,Жалюзи
+589,Wine,Вино
+590,Wine glass,Бокал для вина
+591,Wine rack,Подставка для вина
+592,Winter melon,Восковая тыква
+593,Wok,Вок
+594,Woman,Женщина
+595,Wood-burning stove,Дровяная печь
+596,Woodpecker,Дятел
+597,Worm,Червь
+598,Wrench,Гаечный ключ
+599,Zebra,Зебра
+600,Zucchini,Цуккини

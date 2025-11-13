@@ -1,0 +1,4 @@
+{
+  "model_name": "yolov8n-oiv7.pt",
+  "translate_name": "OpenImagesV7.csv"
+}

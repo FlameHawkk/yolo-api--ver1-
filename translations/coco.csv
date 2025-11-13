@@ -1,0 +1,81 @@
+class_number,english,russian
+0,person,человек
+1,bicycle,велосипед
+2,car,автомобиль
+3,motorcycle,мотоцикл
+4,airplane,самолет
+5,bus,автобус
+6,train,поезд
+7,truck,грузовик
+8,boat,лодка
+9,traffic light,светофор
+10,fire hydrant,пожарный гидрант
+11,stop sign,знак остановки
+12,parking meter,парковочный счетчик
+13,bench,скамейка
+14,bird,птица
+15,cat,кот
+16,dog,собака
+17,horse,лошадь
+18,sheep,овца
+19,cow,корова
+20,elephant,слон
+21,bear,медведь
+22,zebra,зебра
+23,giraffe,жираф
+24,backpack,рюкзак
+25,umbrella,зонт
+26,handbag,сумка
+27,tie,галстук
+28,suitcase,чемодан
+29,frisbee,фрисби
+30,skis,лыжи
+31,snowboard,сноуборд
+32,sports ball,спортивный мяч
+33,kite,воздушный змей
+34,baseball bat,бейсбольная бита
+35,baseball glove,бейсбольная перчатка
+36,skateboard,скейтборд
+37,surfboard,доска для серфинга
+38,tennis racket,теннисная ракетка
+39,bottle,бутылка
+40,wine glass,бокал для вина
+41,cup,чашка
+42,fork,вилка
+43,knife,нож
+44,spoon,ложка
+45,bowl,миска
+46,banana,банан
+47,apple,яблоко
+48,sandwich,сэндвич
+49,orange,апельсин
+50,broccoli,брокколи
+51,carrot,морковь
+52,hot dog,хот-дог
+53,pizza,пицца
+54,donut,пончик
+55,cake,торт
+56,chair,стул
+57,couch,диван
+58,potted plant,горшечное растение
+59,bed,кровать
+60,dining table,обеденный стол
+61,toilet,унитаз
+62,tv,телевизор
+63,laptop,ноутбук
+64,mouse,компьютерная мышь
+65,remote,пульт дистанционного управления
+66,keyboard,клавиатура
+67,cell phone,мобильный телефон
+68,microwave,микроволновая печь
+69,oven,духовка
+70,toaster,тостер
+71,sink,раковина
+72,refrigerator,холодильник
+73,book,книга
+74,clock,часы
+75,vase,ваза
+76,scissors,ножницы
+77,teddy bear,плюшевый мишка
+78,hair drier,фен
+79,toothbrush,зубная щетка
